@@ -14,7 +14,6 @@ Song Wars is a clone of the Spotify Web Player.
     <img src="https://simpleicons.org/icons/html5.svg" width="45px">&nbsp&nbsp&nbsp
 </p>
 
-I used PHP and SQL for queries and HTML, CSS and Javascript for front-end. All the albums and artist names are displayed using sql queries.
 
 ## Installation
 
