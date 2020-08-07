@@ -12,6 +12,8 @@ you will need XAMPP to run the app.
 The slotify.sql contains the tables for Albums, artists, Songs and Users.
 The users table uses md8 encryption to store the password.
 
+<img src="https://github.com/JaiParakh/Spotify-Clone/blob/master/assets/images/bg.jpg">
+
 I created Song Wars with the help of a course on Udemy. The link to the course is attached below.
 
 https://www.udemy.com/spotify-clone/
